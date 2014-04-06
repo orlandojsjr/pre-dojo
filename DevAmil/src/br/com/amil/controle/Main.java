@@ -14,7 +14,7 @@ import java.io.IOException;
  */
 public class Main {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         String nomeArquivo = "log.txt";
         ProcessadorLogInterface processadorLogInterface = new ProcessadorLog(Constantes.PATH_DIR_LOG + nomeArquivo);
         if (processadorLogInterface.processar()) {
