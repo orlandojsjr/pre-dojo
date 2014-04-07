@@ -17,20 +17,24 @@ EXECUÇÃO
 Obs: caso seja necessário, os diretórios podem ser configurados através da classe br.com.amil.Constantes.java
 
 
-> Com o intuito de explorar a orientação objeto e utilizar o designer pattern Factory, o ranking será apresentado em 3 formas diferentes:
+> Com o intuito de explorar a orientação objeto e utilizar o designer pattern Factory, o ranking será apresentado 
+em 3 formas diferentes:
 	saida padrão: no console da IDE
 	html: ranking em arquivo html 
 	csv: ranking em arquivo csv
 
-> No mesmo arquivo log.txt, pode ter logs de várias partidas, sendo assim, cada partida terá seu respectivo arquivo de ranking, salvo na pasta /devamil/ranking
-	Diretório ranking após a execução em um arquivo de log com 2 partidas:
+> No mesmo arquivo log.txt, pode ter logs de várias partidas, sendo assim, cada partida terá seu respectivo arquivo 
+de ranking, salvo na pasta /devamil/ranking. Exemplo do Diretório ranking após a execução em um arquivo de log com 2 partidas:
 		
 		/devamil/ranking/ranking_partida_11348965.csv
 		/devamil/ranking/ranking_partida_11348965.html
 		/devamil/ranking/ranking_partida_11348966.csv
 		/devamil/ranking/ranking_partida_11348966.html	
 
-> Todos os bonus foram feitos.
+> Todos os bônus foram feitos.
+	Awards:
+	IMMORTAL (Jogadores que vencerem uma partida sem morrerem devem ganhar um "award")
+	THE_KILLER_FIVE_KILLS_PER_MINUTE (Jogadores que matarem 5 vezes em 1 minuto devem ganhar um "award")
 
 
 FERRAMENTAS
