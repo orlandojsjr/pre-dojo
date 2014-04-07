@@ -17,7 +17,7 @@ EXECUÇÃO
 Obs: caso seja necessário, os diretórios podem ser configurados através da classe br.com.amil.Constantes.java
 
 
-> Com o intuito de explorar a orientação objeto e utilizar o designer pattern Factory, o ranking será apresentado 
+> Com o intuito de explorar a orientação objeto e utilizar o design pattern Factory, o ranking será apresentado 
 em 3 formas diferentes:
 	saida padrão: no console da IDE
 	html: ranking em arquivo html 
