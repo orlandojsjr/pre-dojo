@@ -6,7 +6,6 @@
 package br.com.amil.controle;
 
 import br.com.amil.util.Constantes;
-import java.io.IOException;
 
 /**
  *
